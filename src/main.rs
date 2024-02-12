@@ -1,24 +1,3 @@
-/** Project outline
- *   - I want to make a game like agario.
- *      - the game has you collect a lot of little balls to increase your radius.
- *      - there are also other spheres controlled by other players (but i dont want to have this be multiplayer)
- *      - the bigger spheres alwasy eat the little spheres.
- *      - the bigger you are the slower you go
- *   - I've been inspired by palworld recently to so i want to add some ideas to the basics of agario
- *      - you can progress into different skills
- *   - the game needs some kind of challenge
- *      - i think enemies are the easiet thing to do
- *      - i think it would be interesting to have to empower the enemies as you power up to let players 
- *  Todos:
- *    - make little dots that you can collect
- *    - figure out what other leveling systems to add
- *    - figure out what the conflict/tention/challenge in the game is so the game is engaging rather than a chore.
- * 
- *  Done:
- *   - make sphere you can move around (maybe with some kind of visual reference in the background to track where you are)
- * 
- */
-
 use eframe::egui;
 
 
